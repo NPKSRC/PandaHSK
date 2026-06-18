@@ -1,26 +1,25 @@
 # 🐼 Panda HSK — User Guide
 
-Welcome! **Panda HSK** helps you learn Chinese vocabulary for the **HSK 1–3** exams.
-Your study buddy is **Bao**, a panda who smiles when you get things right and droops a little
-when you slip up. This guide walks you through everything the app can do.
+Welcome! **Panda HSK** helps you learn Chinese vocabulary for the **HSK 1–3** exams. Your study
+buddy is **Bao**, a panda who reacts as you learn — and who *grows up* as you master more words.
+This guide walks you through everything the app can do.
 
 ---
 
 ## Getting started
 
-Open the app in any modern web browser (Chrome, Safari, Edge, or Firefox) on a phone, tablet,
-or computer. Nothing to install, nothing to sign up for. Your progress is saved automatically
-on your own device.
+Open the app in any modern browser (Chrome, Safari, Edge, Firefox) on a phone, tablet, or computer.
+Nothing to install. Your progress saves automatically on your device.
 
-At the **top** you'll see Bao, the app name, and a 🎋 counter showing how many words you've
-studied so far. Just below is the **HSK level bar**. At the **bottom** are the three main
-sections: **Study**, **Quiz**, and **Browse**.
+At the **top**: Bao's seal logo and app name, your 🎋 **day streak**, and your **profile chip** (tap it
+to switch or create profiles). Below that is the **HSK level bar**. At the **bottom** are four sections:
+**Study**, **Quiz**, **Browse**, and **Progress**.
 
 ---
 
 ## Choosing your level
 
-The level bar appears on every screen:
+The level bar appears on Study, Quiz, and Browse:
 
 | Tab | What you get |
 |-----|--------------|
@@ -29,93 +28,113 @@ The level bar appears on every screen:
 | **HSK 3** | 500 words |
 | **All** | All 1000 words together |
 
-Tap a level any time to switch. The app remembers your choice for next time.
+Tap a level any time. The app remembers your choice.
+
+---
+
+## Meaning languages — English, Thai, Japanese
+
+On the **Study** screen there's a **Meanings** row with three buttons: **English**, **ไทย**, **日本語**.
+Tap to turn each language on or off. Whatever you pick shows on the back of flashcards **and** in Browse.
+Turn off the languages you already know to test yourself, or turn on two at once to compare.
+
+> Thai and Japanese meanings are helpful AI-generated study drafts. They're reliable for everyday
+> vocabulary; a native speaker may refine a few.
 
 ---
 
 ## 1. Study mode (flashcards)
 
-This is where you learn new words at your own pace.
+This is where you learn at your own pace.
 
-- A card shows one word. **Tap the card** (or press **Flip card**) to turn it over and reveal
-  the character, pinyin, part of speech, and English meaning.
-- Use the **◀ / ▶** arrows to move between cards.
-- **🔀 Shuffle** mixes the order so you're not just memorising positions.
-- **↺ Restart** returns to the first card.
+- **Tap the card** (or **Flip card**) to turn it over and see the pinyin, part of speech, and meaning(s).
+- **Swipe left** for the next card, **swipe right** to go back. On a computer you can **drag** with the
+  mouse, use the **◀ ▶ buttons**, or the **arrow keys**. Tap or press **Space** to flip.
+- **汉字 / 拼音 / Meaning first** — choose which side shows first.
+- **🔊** on the back reads the word aloud.
+- **★ (star)** on a card flags it for extra review (find these later under Browse → ★ Review, or quiz them).
 
-**Choose what you see first** using the three pills above the card:
+### Rating a word (how memory tracking works)
 
-- **汉字 first** — see the character, recall the meaning (good for reading).
-- **拼音 first** — see the pinyin, recall the character and meaning.
-- **English first** — see the meaning, recall the Chinese (good for speaking).
+After you flip a card, four buttons appear:
 
-**Hear the word:** after you flip a card, tap the round **speaker** button to hear it
-pronounced in Mandarin.
+| Button | Use it when… | Effect |
+|--------|--------------|--------|
+| **Again** | You didn't know it | Comes back very soon |
+| **Hard** | You struggled | Comes back soon |
+| **Good** | You knew it | Comes back later |
+| **Easy** | Too simple | Comes back much later |
 
-> The progress bar and the "12 / 300" counter show where you are in the current deck.
+Your honest rating sets when the word returns. Each word carries a status that grows with you:
+
+**New → Learning → Familiar → Mastered**
+
+- **⏰ Study due** loads only the words that are ready for review right now.
+- **🔀 Shuffle** mixes the deck; **↺ Restart** goes back to the beginning.
 
 ---
 
 ## 2. Quiz mode
 
-Test yourself with ten quick multiple-choice questions.
+Tap **Quiz**, then set up your test:
 
-- Each question shows either a **character** (pick the English meaning) or an **English meaning**
-  (pick the matching character). The mix keeps you sharp in both directions.
-- Tap an answer. A correct choice turns **green** and a cheerful **很好! / NICE!** seal stamps
-  onto the card; a wrong choice turns **red** and the correct answer is highlighted.
-- Bao reacts to every answer, and the word is read aloud so you hear it as you go.
-- Your **score** and **question number** sit at the top.
+- **Type** — **Meaning** (汉字 → meaning), **Hanzi** (meaning → 汉字), **Listening** (hear it → pick the 汉字),
+  or **Mixed** (a bit of each).
+- **Pool** — **This level**, **Due for review** (words ready to revisit), or **Marked hard** (your ★ words).
+- **Length** — 10, 20, or 30 questions.
 
-At the end you'll see your final score, an encouraging message, and — if you beat your previous
-result for that level — a **🏅 New best score!** badge. Tap **Play again** for a fresh set of
-questions.
-
-> Best scores are saved per level, so you can chase a perfect 10 on each one.
+Tap **Start quiz**. Pick the answer; Bao stamps **很好!** for correct ones. Your quiz answers also update
+each word's memory status, so quizzing *is* studying. At the end you'll see your score, the XP you earned,
+and any new best. **Study missed** turns the words you got wrong into a quick review deck.
 
 ---
 
 ## 3. Browse mode
 
-A searchable dictionary of every word in the current level.
+Tap **Browse** to see the whole list.
 
-- Type in the **search box** to filter instantly. You can search by:
-  - **character** (e.g. `茶`)
-  - **pinyin** — with or without tone marks both work (`hǎo` or `hao`)
-  - **English** (e.g. `tea`)
-- Each row shows the character, pinyin, meaning, part of speech, and its HSK level.
-- Tap the **speaker** on any row to hear it.
+- **Search** by hanzi, pinyin (with or without tone marks), English, Thai, or Japanese.
+- **Filter** by status: **All, New, Learning, Familiar, Mastered**, or **★ Review**.
+- Each row shows its HSK level and current memory status. Tap 🔊 to listen.
 
 ---
 
-## Tips for studying
+## 4. Progress (your dashboard)
 
-- **Start small.** Do one level at a time. Shuffle a deck, flip through it, then take a quiz.
-- **Switch directions.** Reading practice (汉字 first) and recall practice (English first) build
-  different skills — alternate between them.
-- **Quiz often.** Short, frequent quizzes beat long cramming sessions for memory.
-- **Use the 🎋 counter** as a gentle nudge — every new card you open adds to it.
+Tap **Progress** to meet your panda and see how you're doing:
 
----
+- **Bao's stage** — your panda evolves as you master words:
+  **Panda Cub → Bamboo Scout → Clever Panda → Scholar Panda → Master Panda → Sage Panda.**
+  The bar shows progress to the next stage.
+- **Stats** — total XP, day streak, words mastered, and quiz accuracy.
+- **Memory map** — how many of all 1000 words are New / Learning / Familiar / Mastered.
+- **Mastery by level** — your mastered count for HSK 1, 2, and 3.
+- **XP — last 7 days** — a little bar chart of your recent effort.
+- **Recent activity** — your latest study, quiz, and mastery moments.
 
-## Frequently asked questions
-
-**Is my progress saved?**
-Yes — your studied-word count, best quiz scores, and settings are stored in your browser on the
-device you're using. Using a different device or browser starts fresh.
-
-**No sound plays when I tap the speaker.**
-Pronunciation uses your browser's built-in text-to-speech. Most phones and computers include a
-Mandarin voice. If yours doesn't, you may need to add a Chinese language pack in your device
-settings; the rest of the app still works without it.
-
-**Can I use it offline?**
-Once the page has loaded once, it keeps working without a connection. (The very first load needs
-internet to fetch the fonts.)
-
-**Can more words or levels be added?**
-Yes — see the README for how to add HSK 4 and beyond.
+### Earning XP
+You earn XP for rating cards, answering quiz questions, and a bonus each time you **master** a word.
+Studying on a new day keeps your **streak** alive.
 
 ---
 
-Happy studying! 加油! 🐼
+## Profiles, back up & sync
+
+Tap your **profile chip** (top-right):
+
+- **Switch or create profiles** — each keeps its own XP, streak, and memory progress. Great for sharing a
+  device or keeping separate goals. Pick a name and a panda buddy emoji.
+- **Back up & sync** — there's no server, so your progress lives on this device. To move it, copy your
+  **backup code** and paste it into the app on another device under **Restore from a code**. Keep the code
+  somewhere stable, like a note or email to yourself.
+
+---
+
+## Tips for steady progress
+
+- A few minutes daily beats long, rare sessions — your streak and the **⏰ Study due** pool are built for this.
+- Rate honestly. "Good/Easy" too often means words won't come back when you actually need them.
+- Use **Listening** quizzes to train your ear once the characters feel familiar.
+- Star tricky words (★) and clear them with a **Marked hard** quiz.
+
+Happy studying — Bao is rooting for you! 🎋
